@@ -1,0 +1,6 @@
+install NPM
+create required frontend files
+create a server handling socket requests
+setup socket.ion in client and server
+client.js sends message to server.js
+server.js broadcasts the message
